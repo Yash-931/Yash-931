@@ -36,6 +36,7 @@ const yash = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -53,7 +54,7 @@ const yash = {
 **Database & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -72,7 +73,6 @@ const yash = {
 **Highlights:** Full MERN architecture with separate frontend `src/` and `server/` services, production build included.
 
 ---
-
 
 ### ✍️ [QuickBlog](https://github.com/Yash-931/QuickBlog) · [Live Demo ↗](https://quick-blog-eta-opal.vercel.app/)
 > A full-featured blogging platform with a clean client-server split — deployed on Vercel.
@@ -115,7 +115,7 @@ const yash = {
 
 ## 🌱 Currently Learning
 
-- Making scalable workflow using temporalio (Python SDK)
+- Making scalable workflows using Temporal.io (Python SDK)
 - Advanced Node.js patterns (streams, workers, clustering)
 - Spring Boot + Microservices architecture
 - System Design & Distributed Systems fundamentals
