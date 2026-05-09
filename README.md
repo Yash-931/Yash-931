@@ -71,13 +71,6 @@ Here are some highlighted projects from my portfolio:
 
 ---
 
-## 👨‍💻 GitHub Stats
-
-> *(Optional: add GitHub stats cards like Top Languages, Contributions, etc.)*
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-931&layout=compact)
-
 🙌 Let’s Connect
 
 📫 Email: yaggarwal931@gmail.com
