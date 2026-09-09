@@ -145,19 +145,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-931&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-931&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-931&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
----
-
 ### 🌱 Currently Learning
 
 - Scalable workflows with **Temporal.io** (Python SDK)
